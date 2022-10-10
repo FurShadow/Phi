@@ -10,4 +10,4 @@ If you have any questions, comments, or concerns, DM me at **ShadowX#6464** on D
 - A game browser built into the engine[^2]
 
 [^1]: I'm always either offline or on do not disturb, so take that how you will.
-[^2]:Not stolen from [PICO-8](https://www.lexaloffle.com/pico-8.php)
+[^2]: Definitely not a knockoff of [PICO-8's](https://www.lexaloffle.com/pico-8.php) SPLORE
