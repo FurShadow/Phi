@@ -1,5 +1,10 @@
+@font-face {
+    font-family: g1-prajna;
+    src: url(g1-prajna.ttf);
+}
+
 p {
     text-align: center;
     color: #34477c;
-    font-family: g1-prajna.ttf;
-  }
+    font-family: g1-prajna, sans-serif;
+}
