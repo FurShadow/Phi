@@ -9,7 +9,5 @@ If you have any questions, comments, or concerns, DM me at **ShadowX#6464** on D
 - A Sound and Music Engine
 - A game browser built into the engine[^2]
 
-*[GR+]:A custom language made for Phi. Stands for Golden Ratio+
-
 [^1]: I'm always either offline or on do not disturb, so take that how you will.
 [^2]:Not stolen from [PICO-8](https://www.lexaloffle.com/pico-8.php)
