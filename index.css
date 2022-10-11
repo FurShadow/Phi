@@ -1,6 +1,6 @@
 @font-face {
     font-family: g1-prajna;
-    src: url(g1-prajna.ttf);
+    src: url('g1-prajna.ttf') format('truetype');
 }
 
 p {
