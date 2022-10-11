@@ -1,7 +1,16 @@
 @font-face {
-    font-family: g1-prajna;
-    src: url('g1-prajna.ttf') format('truetype');
+    font-family: 'G1 Prajna';
+    src: url('G1-Prajna.eot');
+    src: url('G1-Prajna.eot?#iefix') format('embedded-opentype'),
+        url('G1-Prajna.woff2') format('woff2'),
+        url('G1-Prajna.woff') format('woff'),
+        url('G1-Prajna.ttf') format('truetype'),
+        url('G1-Prajna.svg#G1-Prajna') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
+
 
 p {
     text-align: center;
