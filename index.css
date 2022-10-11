@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'G1 Prajna';
+    font-family: g1praj;
     src: url('G1-Prajna.eot');
     src: url('G1-Prajna.eot?#iefix') format('embedded-opentype'),
         url('G1-Prajna.woff2') format('woff2'),
@@ -15,6 +15,6 @@
 body {
     text-align: center;
     color: #34477c;
-    font-family: 'G1 Prajna', sans-serif;
+    font-family: g1praj, sans-serif;
     margin: 25px 50px 75px 100px;
 }
