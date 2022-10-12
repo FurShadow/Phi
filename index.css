@@ -12,8 +12,10 @@
 }
 
 h1 {
+    font-family: g1praj;
     background-color: #241c3a;
     color: #dbcefd;
+    justify-content: center;
 }
 .columnleft {
     float: left;
