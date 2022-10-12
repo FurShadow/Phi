@@ -15,3 +15,23 @@ h1 {
     background-color: #241c3a;
     color: #dbcefd;
 }
+.columnleft {
+    float: left;
+    width: 25%;
+    padding: 10px;
+    height: 300px;
+}
+  
+.columnright {
+    float: right;
+    width: 75%;
+    padding: 10px;
+    height: 300px;
+}
+  
+
+row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
